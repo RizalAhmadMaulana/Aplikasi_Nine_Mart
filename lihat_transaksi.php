@@ -19,7 +19,7 @@ if (isset($_GET['no_faktur'])) {
     <meta charset="”UTF-8″" />
     <meta name="”viewport”" content="”width" ="device-width," initial-scale="1.0″" />
     <meta http-equiv="”X-UA-Compatible”" content="”ie" ="edge”" />
-    <title>Tabel Transaksi2</title>
+    <title>Tabel Transaksi</title>
     <style>
       body {
         background-color: black;
